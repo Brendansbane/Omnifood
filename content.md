@@ -144,5 +144,3 @@ Privacy & terms
   -Gallery
   -Testimonials
   -footer
-
-<>
