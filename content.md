@@ -135,12 +135,10 @@ Privacy & terms
 
 - Hero
   -featured in
-  -features
   -How it works
-  -Diets
-  -Meals
+  -Meals (And list of diets)
+  -Testimonials + gallery
+  -Pricing + features
+
   -CTA
-  -Pricing
-  -Gallery
-  -Testimonials
   -footer
