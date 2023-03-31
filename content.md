@@ -142,3 +142,5 @@ Privacy & terms
 
   -CTA
   -footer
+
+Resumed today
